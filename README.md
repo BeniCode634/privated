@@ -16,7 +16,7 @@ Ao utilizar este script, você concorda com os seguintes termos e condições:
    - Violação de termos de serviço de terceiros
    - Quaisquer outras consequências relacionadas ao uso do script
 
-Ao utilizar ou usar com a utilização deste script, você aceita a estar ciente e de acordo com todos os termos acima.
+Ao utilizar ou usar com a utilização deste script, você aceita a estar ciente e de acordo com todos os termos acima. e apenas pra testes
 
 ---
 
